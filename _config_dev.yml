@@ -1,0 +1,25 @@
+theme: "just-the-docs"
+
+#remote_theme: pmarsceill/just-the-docs
+
+title: AreoLand
+description: AreoLand Manage properties in better way
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://docs.areoland.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Logo
+logo: "/images/logo.png"
+
+permalink: pretty
+
+# Enable or disable the site search
+# Supports true (default) or false
+search_enabled: true
+
+# Aux links for the upper right navigation
+aux_links:
+  "Edit AreoLand Doc":
+    - "//github.com/octabytes/areoland-doc"
+
+# Footer content appears at the bottom of every page's main content
+footer_content: "Copyright &copy; 2021 <a href=\"https://areoland.com\">AreoLand</a> All rights reserved. Powered by <a href=\"https://octabyte.io\">OctaByte</a>"
