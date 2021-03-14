@@ -7,9 +7,6 @@ nav_order: 2
 # Install App on Android
 {: .no_toc }
 
-This quickstart shows you how to set up Cloud Firestore, add, read, update and delete data by using the FireO.
-{: .fs-6 .fw-300 }
-
 ## Table of contents
 {: .no_toc .text-delta }
 
